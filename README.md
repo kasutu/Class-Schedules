@@ -5,7 +5,7 @@ contributions are much Appriciated
 -----------------------------------------------------------
 
 # Central Philippine University
------------------------------------------
+
 ## BS Software Engineering (non - regular)
 
 > Monday and tuesday
