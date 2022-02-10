@@ -4,7 +4,7 @@ contributions are much Appriciated
 
 -----------------------------------------------------------
 
-# Central Philippine University
+# Central Philippine University <img src="https://cpu.edu.ph/wp-content/uploads/2018/04/cpu-logo.png" >
 
 ## BS Software Engineering (non - regular)
 
