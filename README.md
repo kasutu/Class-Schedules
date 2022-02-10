@@ -10,70 +10,70 @@ contributions are much Appriciated
 
 > Monday and tuesday
 
-10 - 11:30 AM
-Computer Aided Drafting /Design
-Engg 1006
-Stub 2052
+10 - 11:30 AM </br>
+Computer Aided Drafting /Design </br>
+Engg 1006 </br>
+Stub 2052 </br>
 
-4 - 5:30 PM
-Data Structures
-SE 1222
-Stub 1997
+4 - 5:30 PM </br>
+Data Structures </br>
+SE 1222 </br>
+Stub 1997 </br>
 
-5:30 - 7 PM
-Software Development II
-SE 1223
-Stub 2000
+5:30 - 7 PM </br>
+Software Development II </br>
+SE 1223 </br>
+Stub 2000 </br>
 
-7 - 8:30 PM
-Christian Ethics in a Changing World
-RE 2
-Stub 2062
+7 - 8:30 PM </br>
+Christian Ethics in a Changing World </br>
+RE 2 </br>
+Stub 2062 </br>
 
 > Thursday
 
-7:30 - 8:30 AM
-Data Structures
-SE 1222
-Stub 1997
+7:30 - 8:30 AM </br>
+Data Structures </br>
+SE 1222 </br>
+Stub 1997 </br>
 
-10 - 12 PM
-Physical Fitness and Wellness
-PE 1a(M)
-Stub 1367
+10 - 12 PM </br>
+Physical Fitness and Wellness </br>
+PE 1a(M) </br>
+Stub 1367 </br>
 
-2:30 - 4 PM
-Introduction to Engineering Design for SE
-SE 1221
-Stub 1996
+2:30 - 4 PM </br> 
+Introduction to Engineering Design for SE </br> 
+SE 1221 </br>
+Stub 1996 </br>
 
-5:30 - 8:30 PM
-Software Development II
-SE 1223
-Stub 2000
+5:30 - 8:30 PM </br>
+Software Development II </br>
+SE 1223 </br>
+Stub 2000 </br>
 
 > Friday
 
-7:30 - 8:30 AM
-Data Structures
-SE 1222
-Stub 1997
+7:30 - 8:30 AM </br>
+Data Structures </br>
+SE 1222 </br>
+Stub 1997 </br>
 
-10 - 12 PM
-Physical Fitness and Wellness
-PE 1a(M)
-Stub 1367
+10 - 12 PM </br>
+Physical Fitness and Wellness </br>
+PE 1a(M) </br>
+Stub 1367 </br>
 
-2:30 - 4 PM
-Introduction to Engineering Design for SE
-SE 1221
-Stub 1996
+2:30 - 4 PM </br>
+Introduction to Engineering Design for SE </br>
+SE 1221 </br>
+Stub 1996 </br>
 
 > Saturday
 
-7 - 10 AM
-Reserve Officers' Training Corps
-NSTP2-ROTC
-Stub 1822
-[Google Meet Link](https://meet.google.com/udy-qhnw-gcz)
+7 - 10 AM </br>
+Reserve Officers' Training Corps </br>
+NSTP2-ROTC </br>
+Stub 1822 </br>
+[Google Meet Link](https://meet.google.com/udy-qhnw-gcz) </br>
 
