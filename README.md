@@ -15,6 +15,11 @@ Computer Aided Drafting /Design </br>
 Engg 1006 </br>
 Stub 2052 </br>
 
+11:30 - 1:00 pm </br>
+Calculus 1 </br>
+EMath 1101 </br>
+Stub 2475 </br>
+
 4 - 5:30 PM </br>
 Data Structures </br>
 SE 1222 </br>
