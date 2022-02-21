@@ -14,6 +14,7 @@ contributions are much Appriciated
 Computer Aided Drafting /Design </br>
 Engg 1006 </br>
 Stub 2052 </br>
+[Google Meet Link](https://us06web.zoom.us/j/83916297542?pwd=bjBVTGg4cWRkblpWSFpWM3luQnBIQT09) </br>
 
 11:30 - 1:00 pm (monday only) </br>
 Calculus 1 </br>
