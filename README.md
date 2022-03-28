@@ -20,6 +20,7 @@ Stub 2052 </br>
 Calculus 1 </br>
 EMath 1101 </br>
 Stub 2475 </br>
+[zoom link](https://us06web.zoom.us/j/85750060535?pwd=WFZVMGhxaWNpbVBRVk9iRkZka2dPdz09#success) </br>
 
 4 - 5:30 PM </br>
 Data Structures </br>
